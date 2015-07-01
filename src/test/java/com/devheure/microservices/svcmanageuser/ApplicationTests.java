@@ -1,4 +1,4 @@
-package eurekademo;
+package com.devheure.microservices.svcmanageuser;
 
 import static org.junit.Assert.assertEquals;
 
